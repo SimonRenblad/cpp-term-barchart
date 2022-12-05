@@ -18,3 +18,13 @@ To use, you must:
 ```c++
 setlocale(LC_ALL, "");
 ```
+
+## Compile the example code
+
+This repository contains an additional `example.cpp` and `Makefile` to make it easier to understand. 
+
+Assuming you have `g++` installed, simply call:
+```shell
+make
+```
+in your local repo.
